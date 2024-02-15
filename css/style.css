@@ -1,3 +1,11 @@
 .inter-font {
     font-family: "Inter", sans-serif;
   }
+
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+  }
+.font-poppins{
+    font-family: "Poppins", sans-serif;
+}
